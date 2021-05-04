@@ -1,6 +1,8 @@
-# Solidity Contract Flattener 
-A simple python script for flattening of solidity contracts
+# Run Flattener
 
-## Run
+## From python
+python3 flattener.py full_contract_name.sol
 
-You can run the script with `python3 flattener.py contract_to_flat.sol`
+
+## From node (need python3)
+node flattener.js full_contract_name.sol
