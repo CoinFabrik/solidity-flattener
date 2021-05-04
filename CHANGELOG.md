@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/coinfabrik/solidity-flattener/compare/v0.0.6...v0.0.7) (2021-05-04)
+
+
+### Bug Fixes
+
+* remove unnecesary npm dependencies ([472f212](https://github.com/coinfabrik/solidity-flattener/commit/472f212b12eed2ec6ce98ada93345666af44329e))
+
 ### 0.0.6 (2021-05-04)
 
 
