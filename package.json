@@ -1,5 +1,5 @@
 {
-  "name": "@adjicf/solidity-flattener",
+  "name": "@coinfabrik/solidity-flattener",
   "version": "0.0.5",
   "description": "Flatten a contract from node using python",
   "main": "flattener.js",
@@ -227,13 +227,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adjicf/solidity-flattener.git"
+    "url": "git+https://github.com/coinfabrik/solidity-flattener.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adjicf/solidity-flattener/issues"
+    "url": "https://github.com/coinfabrik/solidity-flattener/issues"
   },
-  "homepage": "https://github.com/adjicf/solidity-flattener#readme"
+  "homepage": "https://github.com/coinfabrik/solidity-flattener#readme"
 }
