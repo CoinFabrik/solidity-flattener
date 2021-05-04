@@ -1,6 +1,6 @@
 {
   "name": "@adjicf/solidity-flattener",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Flatten a contract from node using python",
   "main": "flattener.js",
   "scripts": {
